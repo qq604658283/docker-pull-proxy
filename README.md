@@ -1,6 +1,6 @@
 # docker-pull-proxy
 
-有一些海外镜像（gcr.io docker.io）很难拉取，可以通过此仓库自动把指定 docker 镜像上传到我们的私有仓库1
+有一些海外镜像（gcr.io docker.io）很难拉取，可以通过此仓库自动把指定 docker 镜像上传到我们的私有仓库
 
 ## 使用方式
 
