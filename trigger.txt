@@ -1,1 +1,1 @@
-redis:6-alpine registry.cn-hangzhou.aliyuncs.com/dhc_caicy/redis:6-alpine
+ghcr.io/n8n-io/n8n:1.18.4 registry.cn-hangzhou.aliyuncs.com/dhc_caicy/n8n:1.18.4
