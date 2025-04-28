@@ -1,1 +1,1 @@
-ghcr.io/n8n-io/n8n:1.18.4 registry.cn-hangzhou.aliyuncs.com/dhc_caicy/n8n:1.18.4
+openzipkin/zipkin registry.cn-hangzhou.aliyuncs.com/dhc_caicy/zipkin
