@@ -1,1 +1,1 @@
-openzipkin/zipkin registry.cn-hangzhou.aliyuncs.com/dhc_caicy/zipkin
+otel/opentelemetry-collector-contrib:0.1 registry.cn-hangzhou.aliyuncs.com/dhc_caicy/opentelemetry-collector-contrib:0.1
