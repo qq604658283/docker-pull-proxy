@@ -1,1 +1,1 @@
-otel/opentelemetry-collector-contrib:0.1 registry.cn-hangzhou.aliyuncs.com/dhc_caicy/opentelemetry-collector-contrib:0.1
+chromadb/chroma registry.cn-hangzhou.aliyuncs.com/dhc_caicy/chroma
