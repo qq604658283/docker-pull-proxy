@@ -1,1 +1,1 @@
-jdk8:arm:latest registry.cn-hangzhou.aliyuncs.com/dhc_caicy/jdk8:arm:latest
+jdk8arm:latest registry.cn-hangzhou.aliyuncs.com/dhc_caicy/jdk8arm:latest
