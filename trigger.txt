@@ -1,1 +1,1 @@
-jdk8arm:latest registry.cn-hangzhou.aliyuncs.com/dhc_caicy/jdk8arm:latest
+adoptopenjdk:17 registry.cn-hangzhou.aliyuncs.com/dhc_caicy/adoptopenjdk:17
