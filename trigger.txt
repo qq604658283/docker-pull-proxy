@@ -1,1 +1,1 @@
-python:3.11 registry.cn-hangzhou.aliyuncs.com/dhc_caicy/python:3:11
+python:3.11 registry.cn-hangzhou.aliyuncs.com/dhc_caicy/python:3.11
