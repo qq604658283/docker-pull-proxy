@@ -1,1 +1,1 @@
-gitlab/gitlab-ce:18.1.2-ce.0 registry.cn-hangzhou.aliyuncs.com/dhc_caicy/gitlab-ce:18.1.2-ce.0
+mysql:8.4.8 registry.cn-hangzhou.aliyuncs.com/dhc_caicy/mysql:8.4.8
