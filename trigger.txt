@@ -1,1 +1,1 @@
-mysql:8.4.8 registry.cn-hangzhou.aliyuncs.com/dhc_caicy/mysql:8.4.8
+cubefs/cubefs:blobstore-v3.3.0 registry.cn-hangzhou.aliyuncs.com/dhc_caicy/cubefs/cubefs:blobstore-v3.3.0
