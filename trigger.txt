@@ -1,1 +1,1 @@
-cubefs/cubefs:blobstore-v3.3.0 registry.cn-hangzhou.aliyuncs.com/dhc_caicy/cubefs/cubefs:blobstore-v3.3.0
+cubefs/cubefs:blobstore-v3.2.0 registry.cn-hangzhou.aliyuncs.com/dhc_caicy/cubefs:blobstore-v3.2.0
