@@ -1,1 +1,1 @@
-redis:8.4.0 registry.cn-hangzhou.aliyuncs.com/dhc_caicy/redis:8.4.0
+casbin/casdoor:2.283.0 registry.cn-hangzhou.aliyuncs.com/dhc_caicy/casbin/casdoor:2.283.0
