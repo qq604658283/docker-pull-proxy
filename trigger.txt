@@ -1,1 +1,1 @@
-docker.io/library/node:18.19.0 registry.cn-hangzhou.aliyuncs.com/dhc_caicy/node:18.19.0
+nginx:alpine registry.cn-hangzhou.aliyuncs.com/dhc_caicy/nginx:alpine
