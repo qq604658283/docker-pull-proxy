@@ -1,1 +1,1 @@
-mysql:8.0.25 registry.cn-hangzhou.aliyuncs.com/dhc_caicy/mysql:8.0.25
+docker.io/library/alpine:latest registry.cn-hangzhou.aliyuncs.com/dhc_caicy/alpine:latest
