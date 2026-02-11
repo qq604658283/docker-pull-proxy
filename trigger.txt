@@ -1,1 +1,1 @@
-cubefs/cbfs-base:ltp-golang-1.17.13 registry.cn-hangzhou.aliyuncs.com/dhc_caicy/cbfs-base:ltp-golang-1.17.13
+grafana/grafana:6.5.0 registry.cn-hangzhou.aliyuncs.com/dhc_caicy/grafana/grafana:6.5.0
