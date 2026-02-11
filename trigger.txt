@@ -1,1 +1,1 @@
-nginx:1.17.8 registry.cn-hangzhou.aliyuncs.com/dhc_caicy/nginx:1.17.8
+prom/prometheus registry.cn-hangzhou.aliyuncs.com/dhc_caicy/prometheus
