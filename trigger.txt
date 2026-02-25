@@ -1,1 +1,1 @@
-prom/prometheus registry.cn-hangzhou.aliyuncs.com/dhc_caicy/prometheus
+ghcr.nju.edu.cn/open-webui/open-webui:main registry.cn-hangzhou.aliyuncs.com/dhc_caicy/open-webui:main
