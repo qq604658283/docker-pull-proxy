@@ -1,1 +1,1 @@
-openjdk:17-ea-25-jdk-buster registry.cn-hangzhou.aliyuncs.com/dhc_caicy/openjdk:17-ea-25-jdk-buster
+nginx:1.21.3 registry.cn-hangzhou.aliyuncs.com/dhc_caicy/nginx:1.21.3
